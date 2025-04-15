@@ -1,0 +1,7 @@
+name: /tArrayObject
+description: /tTool for generating arrayed conceptual elements.
+parameters:
+  - /tnumX: Number of elements along X
+  - /tnumY: Number of elements along Y
+usage: /tSet number of elements and spacing, choose geometry type.
+universum: /tPart of Modular Systems Toolkit for BIMcraft.

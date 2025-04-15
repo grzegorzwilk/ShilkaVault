@@ -1,0 +1,9 @@
+Project_ID: /tproject_id_here
+Discipline: /tdiscipline_here
+Actor: /tactor_name
+Role: /trole_name
+Task: /ttask_description
+Priority: /tHigh/Medium/Low
+Timestamp: /tdatetime_here
+Message: /tmessage_text_here
+MicroDecider_Result: /tresult_here
