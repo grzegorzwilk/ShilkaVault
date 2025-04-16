@@ -165,10 +165,11 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "fcc562125c551b52",
+  "active": "65f8d42b0f78e0bb",
   "lastOpenFiles": [
     "n8n_Integration.md",
     "BIMcraft.md",
